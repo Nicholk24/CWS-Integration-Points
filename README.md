@@ -6,7 +6,7 @@ CWS uses XMS data integration to ensure that both systems are consistent by appl
 
 In the event the business applications are replaced with a different vendor application, the business rule will not need to be re-implemented. The legacy systems that need to be linked together may reside on a different operating system or database solutions. This document is for internal use only and should serve as a reference tool for Integration Point within CWS and XMS. This is an on-going process and subject to change based upon updated information.
 
-
+**Below is a high-level view of events that occur during integration:**
 
 ![](/assets/2016-10-18_0812.png)
 
